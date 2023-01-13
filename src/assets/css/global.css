@@ -1,0 +1,20 @@
+html, body, #app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+
+
+.el-table__body-wrapper::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  .el-table__body-wrapper::-webkit-scrollbar-thumb {
+    background-color: #ddd;
+    border-radius: 3px;
+  }
