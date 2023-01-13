@@ -1,5 +1,7 @@
 # 网络安全课程设计 XWALL (FrontEnd)
 
+![image](https://github.com/BIIIANG/HUST-CSE-CourseProjectOfNetworkSecurity-FrontEnd--2022/blob/main/imgs/xwall_frontend.png)
+
 ## Usage
 
 使用`Electron`打包生成的`AppImage`文件已放置在[后端仓库](https://github.com/BIIIANG/HUST-CSE-CourseProjectOfNetworkSecurity-2022)相应位置（`gui/xwall-gui-0.1.0.AppImage`），按步骤启动后端即可一并启动该程序。
