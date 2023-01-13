@@ -20,7 +20,7 @@ yarn config set electron_mirror https://cdn.npm.taobao.org/dist/electron/
 # 安装 nodejs 指定版本
 sudo n install 16.13.0
 
-# 
+# 安装依赖
 yarn install
 
 # 启动项目
